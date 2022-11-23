@@ -53,14 +53,9 @@ pip3 install -r client_requirements.txt
 Client.pyw
 ```
 
-## Features
-![изображение](https://user-images.githubusercontent.com/92334349/151528654-e2c6ffb4-33df-430b-a965-07fac7773c19.png)
-
-![изображение](https://user-images.githubusercontent.com/92334349/151528715-c83b5d21-4df4-4143-acf4-a67907e180de.png)
-
 ## Licence
   
-    Copyright (c) 2022 9ntCRAWLER
+    Copyright (c) 2022 Nite_CRAWler
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
