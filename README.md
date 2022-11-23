@@ -30,7 +30,7 @@ https://github.com/Sheriff-Sap/DWARE-RAT
 
 #go to directory with files
 cd DWARE
-
+ 
 #install essential requirements
 pip3 install -r server_requirements.txt
 
