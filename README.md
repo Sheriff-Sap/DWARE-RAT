@@ -26,7 +26,7 @@ Windows systems
 ## Usage for server
 ```
 #clone or download zip archive
-https://github.com/Sheriff-Sap/DWARE-RAT
+https://github.com/Sheriff-Sap/DWARE-RAT.git
 
 #go to directory with files
 cd DWARE
@@ -41,7 +41,7 @@ Server.py
 ## Usage for client
 ```
 #clone or download zip archive
-https://github.com/Sheriff-Sap/DWARE-RAT
+https://github.com/Sheriff-Sap/DWARE-RAT.git
 
 #go to directory with files
 cd DWARE
