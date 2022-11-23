@@ -53,6 +53,12 @@ pip3 install -r client_requirements.txt
 Client.pyw
 ```
 
+## Features
+[System Commands.docx](https://github.com/Sheriff-Sap/DWARE-RAT/files/10079637/System.Commands.docx)
+[DWARE features.txt](https://github.com/Sheriff-Sap/DWARE-RAT/files/10079639/DWARE.features.txt)
+
+
+
 ## Licence
   
     Copyright (c) 2022 Nite_CRAWler
